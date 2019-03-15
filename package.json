@@ -50,7 +50,9 @@
   },
   "dependencies": {
     "loose-envify": "^1.4.0",
-    "symbol-observable": "^1.2.0"
+    "symbol-observable": "^1.2.0",
+    "webpack": "^4.29.6",
+    "webpack-dev-server": "^3.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
